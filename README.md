@@ -1,2 +1,2 @@
 # Python
-this is my training page for Python.
+This is my training page for Python.
